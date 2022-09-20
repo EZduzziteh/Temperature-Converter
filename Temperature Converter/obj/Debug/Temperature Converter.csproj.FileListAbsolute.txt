@@ -1,0 +1,9 @@
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.exe
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\bin\Debug\Temperature Converter.pdb
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csprojAssemblyReference.cache
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature_Converter.Form1.resources
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature_Converter.Properties.Resources.resources
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.GenerateResource.cache
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.exe
+C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.pdb
