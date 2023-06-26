@@ -7,3 +7,14 @@ C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debu
 C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.GenerateResource.cache
 C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.exe
 C:\Users\sasha\Source\Repos\Temperature Converter\Temperature Converter\obj\Debug\Temperature Converter.pdb
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\bin\Debug\Temperature Converter.exe.config
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\bin\Debug\Temperature Converter.exe
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\bin\Debug\Temperature Converter.pdb
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.AssemblyReference.cache
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\obj\Debug\Temperature_Converter.Form1.resources
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\obj\Debug\Temperature_Converter.Properties.Resources.resources
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.GenerateResource.cache
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\obj\Debug\Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\obj\Debug\Temperature Converter.exe
+C:\Users\Sasha\Documents\GitHub\Temperature-Converter\Temperature Converter\obj\Debug\Temperature Converter.pdb
